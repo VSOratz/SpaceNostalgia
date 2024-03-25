@@ -30,4 +30,4 @@ Avoid colliding with enemies to survive as long as possible and score the highes
 # Contributing
 Contributions are welcome! Feel free to open issues or pull requests to improve this project.
 
-###### Enjoy playing and reminiscing about the good old childhood times! 🚀🎮
+###### Enjoy playing and reminiscing about the good old childhood times! 🚀🎮.
