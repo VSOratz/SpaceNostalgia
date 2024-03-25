@@ -1,5 +1,6 @@
 # SpaceNostalgia
-#### Video Demo:  <URL HERE>
+#### edX usernames: vinicius_oratz
+#### Video Demo: https://youtu.be/rWn0soxgiVk
 #### Description:
 This is a small project created in Lua using the Love2D framework. The aim of this project is to recreate the experience of a classic space shooter game, inspired by the games that marked my childhood.
 
